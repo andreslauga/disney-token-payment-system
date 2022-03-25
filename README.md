@@ -1,7 +1,6 @@
 # Disney token payment system
 
-Project written in Solidity that I did during a Blockchain course.
-This was helpful for me to adquire the main concepts of Smart Contracts.
+Project written in Solidity that I did during a Blockchain course. This was helpful for me to acquire the main concepts of Smart Contracts. In this case, the contract controls a payment system for a disney park.
 
 ## Disclaimer
 
